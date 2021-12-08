@@ -23,3 +23,33 @@
    -  Uncle Ian
    -  Mamang Amat
 -  Karung plastik
+
+## 3. List anggota yang ikut:
+
+-  Pria:
+
+   1. Irul
+   2. Rama
+   3. Rian
+   4. Aat
+   5. Dadan
+   6. Bapa Irul
+   7. Uncle
+
+-  Perempuan:
+   1. Diba
+   2. Anis
+   3. Mama aat
+   4. Mama irul
+   5. Mama anis
+   6. Restu
+   7. Unda rina
+   8. Falisha
+   9. Atnie Fatira
+
+Total yang ikut: 16
+Total HP: 16 (Kemungkinan yang didaftar sementara ini punya hp semua)
+
+## 4. List menu makanan:
+
+![This is an image](list.makan.jpg)
