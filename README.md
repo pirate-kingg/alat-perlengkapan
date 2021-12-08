@@ -59,9 +59,9 @@
          </ol>
    </ul>
 
-### Total yang ikut: 20
+### Total yang ikut: 21
 
-### Total HP: 19 (Kemungkinan yang didaftar sementara ini, cuman apip)
+### Total HP: 20 (Kemungkinan yang didaftar sementara ini, cuman apip)
 
 ## 4. List menu makanan:
 
