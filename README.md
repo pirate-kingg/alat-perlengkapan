@@ -61,7 +61,7 @@
 
 ### Total yang ikut: 21
 
-### Total HP: 20 (Kemungkinan yang didaftar sementara ini, cuman apip)
+### Total HP: 20 ("Kemungkinan" semua yang terdaftar punya hp kecuali apip)
 
 ## 4. List menu makanan:
 
