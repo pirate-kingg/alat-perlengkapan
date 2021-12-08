@@ -47,8 +47,9 @@
    8. Falisha
    9. Atnie Fatira
 
-Total yang ikut: 16
-Total HP: 16 (Kemungkinan yang didaftar sementara ini punya hp semua)
+### Total yang ikut: 16
+
+### Total HP: 16 (Kemungkinan yang didaftar sementara ini punya hp semua)
 
 ## 4. List menu makanan:
 
