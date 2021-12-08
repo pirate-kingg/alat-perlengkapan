@@ -26,29 +26,33 @@
 
 ## 3. List anggota yang ikut:
 
--  Pria:
+   <ul>
+      <li>Pria</li>
+         <ol type="1">
+            <li>Irul</li>
+            <li>Rama</li>
+            <li>Rian</li>
+            <li>Aat</li>
+            <li>Dadan</li>
+            <li>Bapa irul</li>
+            <li>Uncle danil</li>
+            <li>Apip</li>
+         </ol>
+   </ul>
 
-   1. Irul
-   2. Rama
-   3. Rian
-   4. Aat
-   5. Dadan
-   6. Bapa Irul
-   7. Uncle
-
--  Perempuan:
-<ol type="1">
-<li>Diba</li>
-</ol>
-   1. 
-   2. Anis
-   3. Mama aat
-   4. Mama irul
-   5. Mama anis
-   6. Restu
-   7. Unda rina
-   8. Falisha
-   9. Atnie Fatira
+<ul>
+      <li>Perempuan</li>
+         <ol type="1">
+            <li>Anis</li>
+            <li>Mama aat</li>
+            <li>Mama irul</li>
+            <li>Mama anis</li>
+            <li>Restu</li>
+            <li>Diba</li>
+            <li>Unda rina</li>
+            <li>Atnie Fatira</li>
+         </ol>
+   </ul>
 
 ### Total yang ikut: 16
 
