@@ -37,6 +37,7 @@
             <li>Bapa irul</li>
             <li>Uncle danil</li>
             <li>Apip</li>
+            <li>Ganesha</li>
          </ol>
    </ul>
 
@@ -51,6 +52,8 @@
             <li>Diba</li>
             <li>Unda rina</li>
             <li>Atnie Fatira</li>
+            <li>Falisha</li>
+            <li>Gema</li>
          </ol>
    </ul>
 
