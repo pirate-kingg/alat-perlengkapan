@@ -39,7 +39,11 @@
             <li>Apip</li>
             <li>Ganesha</li>
             <li>Ayah aat</li>
+            <li>Devasha</li>
+            <li>Uncle adi</li>
+            <li>Uncle iyan</li>
             <li>Paris</li>
+            <li>Ejas</li>
          </ol>
    </ul>
 
@@ -56,10 +60,15 @@
             <li>Atnie Fatira</li>
             <li>Falisha</li>
             <li>Gema</li>
+            <li>Mama fira</li>
+            <li>Fira</li>
+            <li>Mama atun</li>
+            <li>Tante yati</li>
+            <li>Wardah</li>
          </ol>
    </ul>
 
-### Total yang ikut: 21
+### Total yang ikut: 22
 
 ### Total HP: 20 ("Kemungkinan" semua yang terdaftar punya hp kecuali apip)
 
