@@ -38,6 +38,8 @@
             <li>Uncle danil</li>
             <li>Apip</li>
             <li>Ganesha</li>
+            <li>Ayah aat</li>
+            <li>Paris</li>
          </ol>
    </ul>
 
@@ -57,9 +59,9 @@
          </ol>
    </ul>
 
-### Total yang ikut: 16
+### Total yang ikut: 20
 
-### Total HP: 16 (Kemungkinan yang didaftar sementara ini punya hp semua)
+### Total HP: 19 (Kemungkinan yang didaftar sementara ini, cuman apip)
 
 ## 4. List menu makanan:
 
