@@ -52,4 +52,4 @@ Total HP: 16 (Kemungkinan yang didaftar sementara ini punya hp semua)
 
 ## 4. List menu makanan:
 
-![This is an image](list.makan.jpg)
+![This is an image](list-makan.jpg)
