@@ -37,7 +37,10 @@
    7. Uncle
 
 -  Perempuan:
-   1. Diba
+<ol type="1">
+<li>Diba</li>
+</ol>
+   1. 
    2. Anis
    3. Mama aat
    4. Mama irul
