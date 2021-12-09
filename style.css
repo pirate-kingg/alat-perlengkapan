@@ -38,3 +38,10 @@ h1 {
 .mb {
    margin-bottom: 10px;
 }
+
+@media (min-width: 1024px) {
+   body {
+      max-width: 764px;
+      margin: 0 auto;
+   }
+}
