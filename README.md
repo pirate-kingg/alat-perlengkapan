@@ -44,6 +44,8 @@
             <li>Uncle iyan</li>
             <li>Paris</li>
             <li>Ejas</li>
+            <li>Suryadi</li>
+            <li>Fatir</li>
          </ol>
    </ul>
 
@@ -57,7 +59,6 @@
             <li>Restu</li>
             <li>Diba</li>
             <li>Unda rina</li>
-            <li>Atnie Fatira</li>
             <li>Falisha</li>
             <li>Gema</li>
             <li>Mama fira</li>
@@ -67,6 +68,10 @@
             <li>Wardah</li>
          </ol>
    </ul>
+
+   <script>
+      console.log("ok");
+   </script>
 
 ### Total yang ikut: 22
 
